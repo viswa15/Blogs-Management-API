@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "message": "User created successfully",
+  "user": {
+    "name": "John Doe",
+    "email": "tvteja2003@gmail.com",
+    "password": "$2b$10$jvzIbA1d0m41jYkS9Zs4dOxlrBrIwKUwz7VngLA0JkZKu2aqFkvui",
+    "role": "User",
+    "isVerified": false,
+    "_id": "679094abe076861cb164a1ca",
+    "createdAt": "2025-01-22T06:48:11.348Z",
+    "updatedAt": "2025-01-22T06:48:11.348Z",
+    "__v": 0
+  }
+}
